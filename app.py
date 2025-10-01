@@ -17,5 +17,7 @@ while right > 0:
 else:
   print(f"<<<< GAME OVER >>>> Your rights are over. Number : {number}") #son
 
+print("Tekrar Görüşmek Üzere!")
+
 
 
