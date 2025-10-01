@@ -19,5 +19,5 @@ else:
 
 print("Tekrar Görüşmek Üzere!")
 
-
+print("Bye Bye")
 
