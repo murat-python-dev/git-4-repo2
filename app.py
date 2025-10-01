@@ -15,4 +15,7 @@ while right > 0:
   elif guess < number:
     print(f"Please enter higher !!!  Remain rights : {right}")
 else:
-  print(f"<<<< GAME OVER >>>> Your rights are over. Number : {number}")
+  print(f"<<<< GAME OVER >>>> Your rights are over. Number : {number}") #son
+
+
+
